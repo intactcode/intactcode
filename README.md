@@ -28,7 +28,7 @@ I'm Davisson Alves de Jesus, an experienced full stack web developer with a demo
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intactcode&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intactcode&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=intactcode&column=2"/>
         </td>
     </tr>
 </table>
