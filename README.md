@@ -12,6 +12,27 @@ I'm Davisson Alves de Jesus, an experienced full stack web developer with a demo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=intactcode&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=intactcode&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### My GitHub Stats
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=intactcode&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=intactcode"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=intactcode&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intactcode&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+        </td>
+    </tr>
+</table>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=intactcode&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
