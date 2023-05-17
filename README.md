@@ -18,6 +18,13 @@ I'm [Davisson Alves de Jesus](https://intactcode.github.io/intactcode/), an expe
  ---
  
 **Github Stats:**
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=intactcode&row=1&column=8&margin-w=20&theme=onedark&no-bg=false&no-frame=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=intactcode&row=1&column=8&margin-w=20&theme=flat&no-bg=false&no-frame=false">
+<img src="https://github-profile-trophy.vercel.app/?username=intactcode&row=1&column=8&margin-w=20&theme=juicyfresh&no-bg=true&no-frame=true" alt="trophy">
+</picture>
+</div>
 
 <p align="center">
   
