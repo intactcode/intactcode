@@ -17,15 +17,15 @@ I'm Davisson Alves de Jesus, an experienced full stack web developer with a demo
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=intactcode&row=3&column=4&no-bg=true"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=intactcode&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=intactcode"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=intactcode&theme=algolia&hide_border=false"/>
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=intactcode&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intactcode&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intactcode&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
