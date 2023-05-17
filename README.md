@@ -13,7 +13,7 @@ I'm Davisson Alves de Jesus, an experienced full stack web developer with a demo
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=intactcode&column=3&theme=algolia"/>  
+            <img src="https://github-profile-trophy.vercel.app/?username=intactcode&column=4&theme=algolia"/>  
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=intactcode&theme=algolia&hide_border=false"/>
@@ -21,10 +21,10 @@ I'm Davisson Alves de Jesus, an experienced full stack web developer with a demo
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intactcode&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=intactcode&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=intactcode&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intactcode&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
         </td>
     </tr>
 </table>
