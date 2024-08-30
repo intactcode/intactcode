@@ -1,5 +1,3 @@
-# 💫 About Me:
-I'm Davisson Alves de Jesus, an experienced full stack web developer with a demonstrated history of working in the information technology and services industry.
 
 
 # 💻 Tech Stack:
